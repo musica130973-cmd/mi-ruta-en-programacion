@@ -1,3 +1,4 @@
+// Ejercicio 8
 // Indica si cada valor es un tipo de dato primitivo o no primitivo
 
 let a = 10;
