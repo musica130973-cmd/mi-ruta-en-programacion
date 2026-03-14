@@ -59,6 +59,16 @@ Este repositorio irá creciendo con:
 
 ---
 
+📁 Estructura del repositorio
+El contenido está dividido por carpetas, cada una dedicada a un tema, lenguaje o bloque de estudio.
+Dentro de cada carpeta encontrarás:
+
+📝 Archivos .md → versión ligera y legible directamente desde GitHub
+
+📄 Archivos .docx → versión más visual, ideal para imprimir o estudiar offline
+
+---
+
 ## 🌐 Contacto
 
 Si quieres ver más sobre mi trabajo o conectar conmigo:
