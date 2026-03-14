@@ -1,4 +1,5 @@
-// Calculasr el precio final con IVA
+// Ejercicio 9
+// Calcular el precio final con IVA
 
 let precio = 100;
 let iva = 0.21;
