@@ -15,7 +15,7 @@ Vamos a ver cada parte paso a paso.
 
 Esta es la base de cualquier página web moderna.
 
-**🟩 2. <!DOCTYPE html> — Declaración del tipo de documento**
+**🟩 2. !DOCTYPE html — Declaración del tipo de documento**
 
 **✔️ ¿Qué es?**
 
@@ -31,7 +31,7 @@ Es una instrucción que se coloca **al inicio del archivo** para indicar al nave
 
 No es una etiqueta HTML, sino una **declaración**.
 
-**🟦 3. <html> — Elemento raíz del documento**
+**🟦 3. html — Elemento raíz del documento**
 
 Todo el contenido de la página debe estar dentro de esta etiqueta.
 
@@ -53,11 +53,11 @@ Esto ayuda a:
 -   motores de búsqueda
 -   accesibilidad
 
-**🟩 4. <head> — Información interna del documento**
+**🟩 4. head — Información interna del documento**
 
-El <head> contiene **metadatos**, es decir, información que no se muestra directamente en la página, pero que es esencial para su funcionamiento.
+El head contiene **metadatos**, es decir, información que no se muestra directamente en la página, pero que es esencial para su funcionamiento.
 
-Dentro del <head> se incluyen:
+Dentro del head se incluyen:
 
 **✔️ 1. Codificación del documento**
 
@@ -73,16 +73,16 @@ Es lo que aparece en la pestaña del navegador.
 
 **✔️ 3. Otros elementos comunes**
 
--   Hojas de estilo (<link>)
--   Scripts (<script>)
--   Descripción para SEO (<meta name="description">)
+-   Hojas de estilo (link)
+-   Scripts (script)
+-   Descripción para SEO (meta name="description")
 -   Icono de la página (favicon)
 
 Ejemplo:
 
 ![](./04-estructura%20minima%20de%20un%20documento%20!DOCTYPE%20html%2C%20html%2C%20head%2C%20body_images/image-005.png)
 
-**🟦 5. <body> — Contenido visible de la página**
+**🟦 5. body — Contenido visible de la página**
 
 Todo lo que el usuario ve en la pantalla va dentro del <body>:
 
@@ -104,17 +104,17 @@ Ejemplo:
 
 **🟦 7. Buenas prácticas**
 
--   Siempre incluye <!DOCTYPE html>
+-   Siempre incluye !DOCTYPE html
 -   Usa lang="es" o el idioma correspondiente
--   Coloca <meta charset="UTF-8"> al inicio del <head>
+-   Coloca meta charset="UTF-8" al inicio del head
 -   Mantén el código indentado y ordenado
 -   Usa títulos descriptivos
 -   No coloques contenido visible dentro del <head>
 
 **📌 Resumen**
 
--   <!DOCTYPE html> indica que el documento usa HTML5.
--   <html> es el elemento raíz que contiene toda la página.
--   <head> guarda metadatos, estilos, scripts y el título.
--   <body> contiene todo lo que el usuario ve.
+-   !DOCTYPE html indica que el documento usa HTML5.
+-   html es el elemento raíz que contiene toda la página.
+-   head guarda metadatos, estilos, scripts y el título.
+-   body contiene todo lo que el usuario ve.
 -   Esta estructura es obligatoria para cualquier documento HTML válido.
