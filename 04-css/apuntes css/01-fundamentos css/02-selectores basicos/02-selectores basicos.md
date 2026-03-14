@@ -103,25 +103,25 @@ Selecciona elementos dentro de otros:
 
 ![](./02-selectores%20basicos_images/image-009.png)
 
-Afecta a todos los <p> que estén **dentro de un** <div>.
+Afecta a todos los p que estén **dentro de un** div.
 
 ✔️ Selector hijo directo (>)
 
 ![](./02-selectores%20basicos_images/image-010.png)
 
-Solo afecta a los <li> que son **hijos directos** de <ul>.
+Solo afecta a los li que son **hijos directos** de ul.
 
 ✔️ Selector hermano adyacente (+)
 
 ![](./02-selectores%20basicos_images/image-011.png)
 
-Selecciona el **primer** <p> justo después de un <h1>.
+Selecciona el **primer** p justo después de un h1.
 
 **✔️ Selector hermano general (~)**
 
 ![](./02-selectores%20basicos_images/image-012.png)
 
-Selecciona **todos los** <p> que estén después de un <h2> en el mismo nivel.
+Selecciona **todos los** p que estén después de un h2 en el mismo nivel.
 
 **📌 Resumen**
 
