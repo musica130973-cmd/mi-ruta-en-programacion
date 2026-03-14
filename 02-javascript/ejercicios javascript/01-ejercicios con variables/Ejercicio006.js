@@ -1,3 +1,4 @@
+// Ejercicio 6
 // Calcular el área de un rectángulo
 
 let base = 9;
