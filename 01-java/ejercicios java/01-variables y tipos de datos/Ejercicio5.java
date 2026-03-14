@@ -1,4 +1,5 @@
-
+// Ejercicio 5. Intercambio de valores entre variables
+// Intercambia los valores de dos variables sin usar una tercera
 public class Ejercicio5 {
     public static void main(String[] args) {
         int a = 10;
