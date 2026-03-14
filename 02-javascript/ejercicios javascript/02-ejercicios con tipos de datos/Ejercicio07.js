@@ -1,3 +1,4 @@
+// Ejercicio 7
 // Escribe una condición que detecte si dato es null o undefined
 
 let dato = null;
