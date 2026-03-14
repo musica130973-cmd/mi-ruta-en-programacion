@@ -1,3 +1,4 @@
+// Ejercicio 2
 // Crea variables para nombre, edad y cuiudad. Luego construye una frase concatenando todo.
 
 let nombre = "Juan";
