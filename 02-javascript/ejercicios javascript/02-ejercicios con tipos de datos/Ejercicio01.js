@@ -1,3 +1,4 @@
+// Ejercicio 1
 // Indica qué tipo de dato tiene cada una de las siguientes variables
 
 let a = 42;
