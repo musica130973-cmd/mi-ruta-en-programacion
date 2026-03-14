@@ -1,3 +1,4 @@
+// Ejercicio 3
 // Escribe una expresión que devuelva true si lista es un array
 
 let lista = [10, 20, 30];
