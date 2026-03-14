@@ -1,4 +1,4 @@
-// 4. Operaciones con variables numéricas
+// Ejercicio 4. Operaciones con variables numéricas
 // Calcula el área de un círculo usando un radio almacenado en una variable
 
 
