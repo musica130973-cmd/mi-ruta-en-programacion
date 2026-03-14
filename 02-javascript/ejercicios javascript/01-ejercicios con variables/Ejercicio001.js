@@ -1,3 +1,4 @@
+// Ejercicio 1
 // Declarar variables y mostrarlas
 
 let nombre = "Juan";
