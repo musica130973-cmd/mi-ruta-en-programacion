@@ -1,3 +1,4 @@
+// Ejercicio 7
 // Dada tres letras en variables separadas, únelas en una sola palabra
 
 let c1 = "c";
