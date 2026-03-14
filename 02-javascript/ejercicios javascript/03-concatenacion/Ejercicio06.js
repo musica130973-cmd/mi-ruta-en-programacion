@@ -1,3 +1,4 @@
+// Ejercicio 6
 // Dado un producto, cantidad y precio, crea una frase concatenada que diga: 
 // "Has comprado X unidades de PRODUCTO" por Y euros"
 
