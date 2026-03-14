@@ -1,3 +1,4 @@
+// Ejercicio 6
 // Crea un objeto persona con nombre, edad y si tiene mascota. Luego muestra el nombre.
 
 let persona = {
