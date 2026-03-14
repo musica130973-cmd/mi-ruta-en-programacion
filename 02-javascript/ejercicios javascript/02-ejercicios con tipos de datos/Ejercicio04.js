@@ -1,3 +1,4 @@
+// Ejercicio 4
 // Diferencia entre == y ===
 igualdad1 = "5" == 5;
 igualdad2 = "5" === 5;
