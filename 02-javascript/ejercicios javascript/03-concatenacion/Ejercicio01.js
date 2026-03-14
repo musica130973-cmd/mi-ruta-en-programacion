@@ -1,3 +1,4 @@
+// Ejercicio 1
 // Pide al usuario su nombre y apellido (simulando con variables) y muestra un saludo concatenando ambas partes.
 
 let nombre = "Juan";
