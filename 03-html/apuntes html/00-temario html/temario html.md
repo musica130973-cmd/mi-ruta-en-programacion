@@ -5,51 +5,51 @@
 -   Qué es HTML y cómo funciona en la web
 -   Relación entre HTML, CSS y JavaScript
 -   Anatomía de una etiqueta (elemento, atributos, contenido)
--   Estructura mínima de un documento (<!DOCTYPE html>, <html>, <head>, <body>)
+-   Estructura mínima de un documento (!DOCTYPE html, html, head, body)
 
 **🏗️ 2. Estructura y semántica básica**
 
--   Encabezados (<h1> a <h6>)
--   Párrafos y texto (<p>, <span>, <strong>, <em>)
--   Saltos de línea y separadores (<br>, <hr>)
+-   Encabezados (h1 a h6)
+-   Párrafos y texto (p, span, strong, em)
+-   Saltos de línea y separadores (br, hr)
 -   Comentarios
 -   Entidades HTML
 
 **📄 3. Elementos de bloque y de línea**
 
 -   Diferencias entre block-level e inline
--   Divisiones y contenedores (<div>, <section>, <article>, <aside>, <main>, <header>, <footer>)
+-   Divisiones y contenedores (div, section, article, aside, main, header, footer)
 -   Uso correcto de etiquetas semánticas
 
 **🔗 4. Enlaces y navegación**
 
--   Enlaces básicos (<a>)
+-   Enlaces básicos (a)
 -   Atributos importantes: href, target, rel
 -   Enlaces internos y externos
 -   Navegación dentro de la misma página (anclas)
 
 **🖼️ 5. Imágenes y multimedia**
 
--   Imágenes (<img>) y atributos (alt, srcset, sizes)
--   Audio (<audio>)
--   Video (<video>)
--   Iframes (<iframe>)
+-   Imágenes (img) y atributos (alt, srcset, sizes)
+-   Audio (audio)
+-   Video (video)
+-   Iframes (iframe)
 -   Buenas prácticas de accesibilidad y rendimiento
 
 **📋 6. Listas y tablas**
 
--   Listas ordenadas y desordenadas (<ol>, <ul>, <li>)
--   Listas de definición (<dl>, <dt>, <dd>)
--   Tablas (<table>, <tr>, <td>, <th>, <thead>, <tbody>, <tfoot>)
+-   Listas ordenadas y desordenadas (ol, ul, li)
+-   Listas de definición (dl, t, dd)
+-   Tablas (table, tr, td, th, thead, tbody, tfoot)
 -   Accesibilidad en tablas (atributos scope, caption)
 
 **🧩 7. Formularios**
 
--   Estructura básica (<form>, action, method)
--   Campos de entrada (<input>, tipos de input)
--   Selectores (<select>, <option>)
--   Textareas (<textarea>)
--   Botones (<button>)
+-   Estructura básica (form, action, method)
+-   Campos de entrada (input, tipos de input)
+-   Selectores (select, option)
+-   Textareas (textarea)
+-   Botones (button)
 -   Validación nativa del navegador
 -   Atributos importantes: required, pattern, placeholder, min, max, etc.
 
@@ -60,7 +60,7 @@
 -   Comentarios y legibilidad
 -   Semántica vs. divs innecesarios
 
-**♿ 9. Accesibilidad (A11y)**
+**♿ 9. Accesibilidad**
 
 -   Uso correcto de alt
 -   Roles ARIA básicos
