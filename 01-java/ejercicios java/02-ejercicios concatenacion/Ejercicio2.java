@@ -1,4 +1,5 @@
-//Declara dos números enteros y muestra su concatenación como texto. Ejemplo: 4 y 7 "47"
+// Ejercicio 2
+// Declara dos números enteros y muestra su concatenación como texto. Ejemplo: 4 y 7 "47"
 
 public class Ejercicio2 {
     public static void main(String[] args) {
