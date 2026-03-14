@@ -1,3 +1,4 @@
+// Ejercicio 2
 // Cambiar el valor de una variable
 
 let contador = 0;
