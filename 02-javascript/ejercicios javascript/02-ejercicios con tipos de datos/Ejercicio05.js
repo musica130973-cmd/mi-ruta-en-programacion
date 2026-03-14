@@ -1,3 +1,4 @@
+// Ejercicio 5
 // Detectar el tipo de dato con typeof
 
 console.log(typeof 10)
