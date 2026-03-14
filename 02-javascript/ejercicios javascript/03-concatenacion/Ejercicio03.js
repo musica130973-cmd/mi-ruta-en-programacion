@@ -1,3 +1,4 @@
+// Ejercicio 3
 // Declara dos números y crea una cadena que diga: "El resultado de unirlos es XY2".
 // No sumarlos sino unirlos como texto.
 
