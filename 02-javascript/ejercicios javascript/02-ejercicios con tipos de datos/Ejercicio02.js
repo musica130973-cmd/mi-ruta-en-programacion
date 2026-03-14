@@ -1,3 +1,4 @@
+// Ejercicio 2
 // Convierte la variable x en número, y la variable y en string
 
 let x = "123";
