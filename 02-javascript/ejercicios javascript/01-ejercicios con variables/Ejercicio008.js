@@ -1,3 +1,4 @@
+// Ejercicio 8
 // Crea una variable booleana según una condición
 
 let edad = 17;
