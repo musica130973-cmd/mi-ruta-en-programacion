@@ -1,3 +1,4 @@
+// Ejercicio 10
 // Crear un objeto con variables internas
 
 let persona = {
