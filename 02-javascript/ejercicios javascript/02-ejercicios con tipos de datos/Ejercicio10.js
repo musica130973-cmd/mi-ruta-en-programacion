@@ -1,3 +1,4 @@
+// Ejercicio 10
 // Diferencia entre null y undefined
 
 console.log(null == undefined);
