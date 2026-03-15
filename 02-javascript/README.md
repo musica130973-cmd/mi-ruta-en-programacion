@@ -1,4 +1,4 @@
-☕ Apuntes de JavaScript
+☕ JavaScript
 Bienvenido a la sección de JavaScript dentro de mi ruta de aprendizaje en programación.
 Aquí recopilo todos mis apuntes, ejemplos, ejercicios y explicaciones sobre el lenguaje que domina la web, organizados de forma clara y progresiva para facilitar el estudio.
 

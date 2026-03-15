@@ -1,4 +1,4 @@
-🎨 Apuntes de CSS
+🎨 CSS
 Bienvenido a la sección de CSS dentro de mi ruta de aprendizaje en programación.
 Aquí recopilo todos mis apuntes, ejemplos, ejercicios y explicaciones sobre hojas de estilo en cascada, organizados de forma clara y progresiva para facilitar el estudio.
 

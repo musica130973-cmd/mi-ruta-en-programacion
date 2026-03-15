@@ -1,4 +1,4 @@
-☕ Apuntes de HTML
+☕ HTML
 Bienvenido a la sección de HTML dentro de mi ruta de aprendizaje en programación.
 Aquí recopilo todos mis apuntes, ejemplos y ejercicios relacionados con el marcado de páginas web, organizados de forma clara y progresiva para facilitar el estudio.
 

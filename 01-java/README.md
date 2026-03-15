@@ -1,4 +1,4 @@
-☕ Apuntes de Java
+☕ Java
 Bienvenido a la sección de Java dentro de mi ruta de aprendizaje en programación.
 Aquí recopilo todos mis apuntes, ejercicios, ejemplos y explicaciones relacionados con este lenguaje, organizados de forma clara y progresiva para facilitar el estudio.
 
