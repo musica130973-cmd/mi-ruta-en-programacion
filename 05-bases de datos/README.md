@@ -1,6 +1,6 @@
 🗄️ Bases de Datos
 Bienvenido a la sección de Bases de Datos dentro de mi ruta de aprendizaje en programación.
-Aquí recopilo mis apuntes, ejemplos, ejercicios y explicaciones sobre el fascinante mundo del almacenamiento y gestión de datos, organizados de forma clara y progresiva para facilitar el estudio.
+Aquí recopilo todos mis apuntes, ejemplos, ejercicios y explicaciones sobre el mundo del almacenamiento y gestión de datos, organizados de forma clara y progresiva para facilitar el estudio.
 
 Este espacio está pensado tanto para mi propio aprendizaje como para cualquiera que quiera repasar bases de datos desde cero hasta un nivel avanzado.
 
@@ -13,136 +13,151 @@ Los apuntes están divididos por temas, cada uno con su propio archivo en format
 
 Los contenidos incluyen:
 
-🌱 1. Fundamentos de Bases de Datos
+🌱 1. Introducción a las Bases de Datos
+Basado en el temario: “Qué es una base de datos” y “Tipos de datos y estructuras básicas”.
+
 Qué es una base de datos
 
-Tipos de bases de datos
+Tipos de datos y estructuras
 
-Sistemas Gestores de Bases de Datos (SGBD)
+SGBD / DBMS
 
-Tablas, registros y campos
+Bases de datos relacionales vs no relacionales
 
-Claves primarias y foráneas
+Tablas, registros, campos y claves
 
-Normalización (1FN, 2FN, 3FN)
+🧩 2. Modelo Relacional
+Incluye contenido como “Tablas y relaciones”.
 
-Modelo entidad–relación
+Tablas y relaciones
 
-🧱 2. SQL Básico
-SELECT, INSERT, UPDATE, DELETE
+Clave primaria y foránea
 
-Filtrado con WHERE
-
-Ordenación y límites
-
-Funciones agregadas (COUNT, SUM, AVG…)
-
-GROUP BY y HAVING
-
-Joins (INNER, LEFT, RIGHT, FULL)
-
-🎯 3. SQL Avanzado
-Subconsultas
-
-Vistas
-
-Índices
-
-Triggers
-
-Stored Procedures
-
-Transacciones (COMMIT, ROLLBACK)
-
-Control de concurrencia y bloqueos
-
-🧩 4. Modelado y Diseño de Datos
-Diagramas ER
-
-Relaciones 1:1, 1:N, N:M
+Cardinalidad (1:1, 1:N, N:M)
 
 Integridad referencial
 
-Optimización del modelo
+Normalización (1FN, 2FN, 3FN, BCNF)
+
+Anomalías de actualización, inserción y eliminación
+
+🧠 3. Lenguaje SQL
+Consultas básicas: SELECT, FROM, WHERE
+
+Operadores lógicos y de comparación
+
+ORDER BY, LIMIT
+
+JOIN (INNER, LEFT, RIGHT, FULL)
+
+GROUP BY y HAVING
+
+Funciones de agregación
+
+Subconsultas
+
+CTE (WITH)
+
+Vistas
+
+Funciones de ventana (OVER, PARTITION BY)
+
+🛠️ 4. Manipulación y Definición de Datos
+DML: INSERT, UPDATE, DELETE
+
+DDL: CREATE TABLE, ALTER TABLE, DROP TABLE
+
+Tipos de datos en SQL
+
+DCL y TCL: GRANT, REVOKE, COMMIT, ROLLBACK, SAVEPOINT
+
+🧱 5. Diseño de Bases de Datos
+Análisis de requisitos
+
+Diagramas entidad–relación (ER)
+
+Transformación del modelo ER al modelo relacional
 
 Buenas prácticas de diseño
 
-🗃️ 5. Bases de Datos NoSQL
-Qué es NoSQL y cuándo usarlo
-
-Tipos: Documentos, Clave-Valor, Columnar, Grafos
-
-MongoDB: colecciones, documentos, consultas
-
-Redis: almacenamiento en memoria
-
-Neo4j: grafos y relaciones
+Optimización del esquema
 
 ⚙️ 6. Administración de Bases de Datos
-Instalación y configuración de SGBD
+Instalación y configuración de un SGBD
 
 Gestión de usuarios y permisos
 
 Backups y restauración
 
-Monitorización y rendimiento
+Monitorización y logs
 
 Seguridad y cifrado
 
-🚀 7. Optimización y Performance
-Índices y su impacto
-
-Query optimization
+🚀 7. Optimización y Rendimiento
+Índices: tipos y uso
 
 Planes de ejecución
+
+Optimización de consultas
 
 Particionamiento
 
 Caching
 
-🌐 8. Bases de Datos en la Nube
-Servicios gestionados (AWS RDS, Azure SQL, Google Cloud SQL)
+🌐 8. Bases de Datos NoSQL
+Qué es NoSQL y cuándo usarlo
 
-Escalabilidad vertical y horizontal
+Tipos: Documentales, Clave-valor, Columnar, Grafos
 
-Réplicas y alta disponibilidad
+MongoDB, Redis, Cassandra, Neo4j
 
-Costos y buenas prácticas
+Comparación SQL vs NoSQL
 
-🧪 9. Herramientas y Flujo de Trabajo
-Clientes SQL (DBeaver, TablePlus, MySQL Workbench)
+Casos de uso reales
 
-ORMs (Prisma, Sequelize, Hibernate)
+🧬 9. Transacciones y Concurrencia
+ACID
 
-Migraciones
+Aislamiento de transacciones
 
-Docker para bases de datos
+Locks
 
-Data modeling tools
+Dirty reads, phantom reads, etc.
 
-🧰 10. Buenas Prácticas
-Naming conventions
+Niveles de aislamiento
 
-Documentación
+☁️ 10. Bases de Datos en la Nube
+Conceptos básicos
 
-Seguridad y acceso
+Amazon RDS / Aurora
 
-Evitar consultas costosas
+Google Cloud SQL / Firestore
 
-Auditoría y logs
+Azure SQL Database
 
-🏁 11. Proyecto Final
+Ventajas y desventajas
+
+Escalabilidad horizontal y vertical
+
+🧰 11. Herramientas y Ecosistema
+MySQL, PostgreSQL, SQL Server, Oracle
+
+MongoDB, Redis, Neo4j
+
+DBeaver, pgAdmin, MySQL Workbench
+
+ORMs: Sequelize, Prisma, Hibernate, Eloquent
+
+🏁 12. Proyecto Final
 Diseño completo de una base de datos
 
-Modelo ER + Normalización
+Modelo ER
 
-Implementación en SQL
+Implementación en un SGBD
 
-Consultas avanzadas
+Consultas complejas
 
-Optimización
-
-Documentación del sistema
+Optimización y documentación
 
 🎯 Objetivo de estos apuntes
 Mi intención es construir una base sólida en bases de datos, entendiendo cómo almacenar, consultar y estructurar información de forma eficiente, segura y escalable.
