@@ -1,4 +1,4 @@
-**2\. REPOSITORIOS LOCALES VS REMOTOS**
+**3\. REPOSITORIOS LOCALES VS REMOTOS**
 
 En Git, todo gira en torno a los **repositorios**, que son los lugares donde se almacena el historial del proyecto. Existen dos tipos principales:
 
