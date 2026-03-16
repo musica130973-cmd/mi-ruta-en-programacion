@@ -1,4 +1,5 @@
-//Crea un metodo que devuelva el doble de un número y docuemta el metodo con comentarios estilo JavaDoc
+// Ejercicio 5
+// Crea un metodo que devuelva el doble de un número y docuemta el metodo con comentarios estilo JavaDoc
 
 public class Ejercicio5 {
 
