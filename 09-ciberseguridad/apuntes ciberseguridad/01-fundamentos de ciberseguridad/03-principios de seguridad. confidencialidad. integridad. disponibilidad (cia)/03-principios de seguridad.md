@@ -85,7 +85,7 @@ En muchos casos, mejorar uno puede afectar a otro. Por ejemplo:
 
 Por eso la seguridad siempre busca un **equilibrio**.
 
-**🎯 Resumen visual**
+**🎯 Resumen**
 
 | **Principio** | **Qué protege** | **Ejemplos** |
 | --- | --- | --- |
