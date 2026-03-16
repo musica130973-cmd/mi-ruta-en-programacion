@@ -1,4 +1,5 @@
-//Escribe un programa que calcule el área de un triángulo y coméntalo completamente para que cualquier persona pueda entenderlo
+// Ejercicio 7
+// Escribe un programa que calcule el área de un triángulo y coméntalo completamente para que cualquier persona pueda entenderlo
 
 import java.util.Scanner;
 
