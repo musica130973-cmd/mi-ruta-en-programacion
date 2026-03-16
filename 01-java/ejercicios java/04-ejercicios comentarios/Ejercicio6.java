@@ -1,4 +1,5 @@
-//Corrige los comentarios incorrectos en el código
+// Ejercicio 6
+// Corrige los comentarios incorrectos en el código
 
 public class Ejercicio6 {
     public static void main(String[] args) {
