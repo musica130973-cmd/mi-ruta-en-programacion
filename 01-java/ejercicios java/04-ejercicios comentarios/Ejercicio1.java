@@ -1,3 +1,4 @@
+// Ejercicio 1
 // Escribe un programa que declare dos variables y súmalas. Añade comentarios de una sola línea explicando qué hace cada parte.
 public class Ejercicio1 {
     public static void main(String[] args) {
