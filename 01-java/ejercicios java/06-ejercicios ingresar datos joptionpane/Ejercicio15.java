@@ -1,3 +1,4 @@
+// Ejercicio 15
 // Pide datos y pregunta si desea confirmar antes de mostrar el resumen
 
 import javax.swing.*;

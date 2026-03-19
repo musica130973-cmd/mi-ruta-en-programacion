@@ -1,3 +1,4 @@
+// Ejercicio 12
 // Pide precio e IVA y calcula el total
 
 import javax.swing.*;

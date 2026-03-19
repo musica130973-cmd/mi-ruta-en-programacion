@@ -1,3 +1,4 @@
+// Ejercicio 6
 // Pide un número hasta que el usuario introduzca un valor válido
 
 // Importamos Swing para poder usar JOptionPane (ventanas emergentes)

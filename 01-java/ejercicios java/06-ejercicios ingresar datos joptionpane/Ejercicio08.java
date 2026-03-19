@@ -1,3 +1,5 @@
+// Ejercicio 8
+// Pide tres notas y calcula el promedio
 import javax.swing.*;
 
 // Pide tres notas y calcula el promedio

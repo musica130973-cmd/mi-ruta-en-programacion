@@ -1,3 +1,6 @@
+// Ejercicio 9
+// Pide nombre, edad, ciudad y profesión.
+
 import javax.swing.*;
 
 // Pide nombre, edad, ciudad y profesion

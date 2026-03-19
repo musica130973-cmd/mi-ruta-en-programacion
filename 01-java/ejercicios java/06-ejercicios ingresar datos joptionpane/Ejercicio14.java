@@ -1,3 +1,4 @@
+// Ejercicio 14
 // El programa genera un número aleatorio del 1 al 10 y el usuario debe adivinarlo
 
 import javax.swing.*;

@@ -1,3 +1,4 @@
+// Ejercicio 10
 //Pide al usuario una contraseña y valida
 
 import javax.swing.*;

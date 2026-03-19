@@ -1,3 +1,5 @@
+// Ejercicio 2
+
 import javax.swing.*;
 
 // Pide dos números enteros y muestra la suma

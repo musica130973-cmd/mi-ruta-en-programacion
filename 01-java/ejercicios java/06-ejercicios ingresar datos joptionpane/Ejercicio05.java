@@ -1,3 +1,4 @@
+// Ejercicio 5
 // Muestra un menú con tres opciones: Sumar, Restar, Salir
 
 // Importa la librería Swing, necesaria para usar JOptionPane y crear ventanas gráficas
